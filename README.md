@@ -6,7 +6,7 @@
           </a>
      <br/>
  <a href="https://www.dynaimage.xyz">
-          <img src="https://img.shields.io/badge/sharebook-000000?style=flat-square&logo=Probot&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%ED%99%8D-28878b20a/"/>
+          <img src="https://img.shields.io/badge/dynaimage-000000?style=flat-square&logo=Probot&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%ED%99%8D-28878b20a/"/>
           </a>
           <a href="https://www.sharebook.link">
           <img src="https://img.shields.io/badge/sharebook-000000?style=flat-square&logo=Probot&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%ED%99%8D-28878b20a/"/>
