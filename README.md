@@ -1,9 +1,7 @@
 <div id="header" align="center">
      <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif" alt="" width="100"/>
   <br/>
-          <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%ED%99%8D-28878b20a/">
-          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%ED%99%8D-28878b20a/"/>
-          </a>
+        
           <br/>
      <br/>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-xhyun&count_bg=%2300CC00&title_bg=%23000000&icon=github.svg&icon_color=%2300CC00&title=HIT&edge_flat=false"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcode-xhyun&count_bg=%2300CC00&title_bg=%23000000&icon=github.svg&icon_color=%2300CC00&title=HIT&edge_flat=false"/>
